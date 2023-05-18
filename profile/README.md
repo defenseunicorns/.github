@@ -7,14 +7,8 @@ We are innovators, software engineers, and veterans with decades of experience d
 Defense Unicorns operates with a single belief; that a value not lived is not a value at all. Our team exercises habits every day that bring our values to life.
 
 ### Follow us on:
-<!-- This is lame GH....
-<a href="https://www.linkedin.com/company/defense-unicorns"><img src="https://github.com/defenseunicorns/.github/assets/882485/eb840854-7a40-4df7-be9f-0a5c5130ca56" /></a> &nbsp;
-<a href="https://mobile.twitter.com/defenseunicorns"><img src="https://github.com/defenseunicorns/.github/assets/882485/24363576-978e-43e3-ad54-1f0cb652a3c8" /></a> &nbsp;
-<a href="https://anchor.fm/defenseunicorns"><img src="https://github.com/defenseunicorns/.github/assets/882485/649a9982-5d9e-4145-9c28-fc98000ee40d" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCWCPckStyw2R0vC4zG68LIg"><img src="https://github.com/defenseunicorns/.github/assets/882485/ed04c9bd-a461-4c00-8fa1-573265005d59" /></a> &nbsp;
- -->
- 
-[LinkedIn](https://www.linkedin.com/company/defense-unicorns) &nbsp;
-[Twitter](https://mobile.twitter.com/defenseunicorns) &nbsp;
-[Podcast](https://anchor.fm/defenseunicorns) &nbsp;
-[Youtube](https://www.youtube.com/channel/UCWCPckStyw2R0vC4zG68LIg) &nbsp;
+<a href="https://www.linkedin.com/company/defense-unicorns" alt="LinkedIn"><img src="https://storage.googleapis.com/github-com-defense-unicorns/li.png" /></a> &nbsp;
+<a href="https://mobile.twitter.com/defenseunicorns" alt="Twitter"><img src="https://storage.googleapis.com/github-com-defense-unicorns/twitter.png" /></a> &nbsp;
+<a href="https://anchor.fm/defenseunicorns" alt="Podcast"><img src="https://storage.googleapis.com/github-com-defense-unicorns/podcast.png" /></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCWCPckStyw2R0vC4zG68LIg" alt="Youtube"><img src="https://storage.googleapis.com/github-com-defense-unicorns/yt.png" /></a> &nbsp;
+
